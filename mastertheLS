@@ -1,0 +1,2 @@
+#!/bim/bash
+ls -ltu --format=commas | sed 's/ //g'
